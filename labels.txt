@@ -1,0 +1,14 @@
+bacterial_leaf_blight
+bacterial_leaf_streak
+bakanae
+brown_spot
+grassy_stunt_virus
+healthy_rice_plant
+narrow_brown_spot
+ragged_stunt_virus
+rice_blast
+rice_false_smut
+sheath_blight
+sheath_rot
+stem_rot
+tungro_virus
